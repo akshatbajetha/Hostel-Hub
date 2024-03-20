@@ -1,1 +1,3 @@
 # Hostel-Hub
+
+Hostel Hub is a web application designed to streamline the process of booking hostel rooms for college students. Our website not only eases the process of booking hostel rooms for college students but also improves the administrative efficiency of hostel management. Hostel Hub, with the help of its intuitive UI and amazing features, offers students the convenience of browsing, booking, and managing accommodation online. Our system provides the administrators with the tools to manage room availability, handle reservations, manage and check the details of students, and much more. Hostel Hub provides a smooth gateway for college students to book hostel rooms of their choice hassle-free. 
